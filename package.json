@@ -66,6 +66,8 @@
     "minimatch@\u003e=7 \u003c8": "7.4.9",
     "minimatch@\u003e=8 \u003c9": "8.0.7",
     "minimatch@\u003e=9 \u003c10": "9.0.9",
+    "minimist@\u003c1": "0.2.4",
+    "minimist@\u003e=1 \u003c2": "1.2.8",
     "qs": "6.17.1",
     "sha.js": "2.4.12",
     "tough-cookie": "4.1.4",
