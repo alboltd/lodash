@@ -36,7 +36,10 @@
   "name": "lodash",
   "overrides": {
     "handlebars@\u003e=3 \u003c4": "3.0.8",
-    "handlebars@\u003e=4 \u003c5": "4.7.10"
+    "handlebars@\u003e=4 \u003c5": "4.7.10",
+    "json5@\u003c1": "1.0.2",
+    "json5@\u003e=1 \u003c2": "1.0.2",
+    "json5@\u003e=2 \u003c3": "2.2.3"
   },
   "private": true,
   "scripts": {
