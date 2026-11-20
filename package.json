@@ -36,7 +36,11 @@
   "name": "lodash",
   "overrides": {
     "handlebars@\u003e=3 \u003c4": "3.0.8",
-    "handlebars@\u003e=4 \u003c5": "4.7.10"
+    "handlebars@\u003e=4 \u003c5": "4.7.10",
+    "yargs-parser@\u003e=13 \u003c14": "13.1.2",
+    "yargs-parser@\u003e=15 \u003c16": "15.0.3",
+    "yargs-parser@\u003e=18 \u003c19": "18.1.3",
+    "yargs-parser@\u003e=5 \u003c6": "5.0.1"
   },
   "private": true,
   "scripts": {
