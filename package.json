@@ -36,7 +36,8 @@
   "name": "lodash",
   "overrides": {
     "handlebars@\u003e=3 \u003c4": "3.0.8",
-    "handlebars@\u003e=4 \u003c5": "4.7.10"
+    "handlebars@\u003e=4 \u003c5": "4.7.10",
+    "sha.js": "2.4.12"
   },
   "private": true,
   "scripts": {
