@@ -35,6 +35,7 @@
   "main": "lodash.js",
   "name": "lodash",
   "overrides": {
+    "ajv": "6.15.0",
     "bl@\u003c1": "1.2.3",
     "bl@\u003e=1 \u003c2": "1.2.3",
     "bl@\u003e=2 \u003c3": "2.2.1",
