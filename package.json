@@ -35,6 +35,7 @@
   "main": "lodash.js",
   "name": "lodash",
   "overrides": {
+    "braces": "3.0.3",
     "fsevents": "2.3.3",
     "handlebars@\u003e=3 \u003c4": "3.0.8",
     "handlebars@\u003e=4 \u003c5": "4.7.10",
